@@ -1,0 +1,33 @@
+/* CSS Document */
+
+
+body {
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 8pt;
+	margin: 0px;
+	padding: 0px; 
+	background-color: #F1F1F1;
+}
+#page{
+	width: 1024px;
+	margin: 10px auto;
+	padding: 10px;
+	border:2px solid #e8e8e8;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	-moz-box-shadow: 3px 3px 3px #ccc;
+	-webkit-box-shadow: 3px 3px 3px #ccc;
+	box-shadow: 3px 3px 3px #ccc;
+	background-color: white;
+}
+img {
+	border: none;
+}
+a {
+	text-decoration: none;
+	color: #666666;
+}
+a:hover {
+	color: #000000;
+}

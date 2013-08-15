@@ -1,0 +1,10 @@
+** xajax Error Log - Aug 13 2013 11:39:15 PM **
+
+----
+[NOTICE] Undefined index: sair
+Error on line 27 of file /home/www/html/loca/smarty/templates_c/24c73c3ab5389ae998a7b3a148aaa1503d76c187.file.login.tpl.php
+----
+[NOTICE] Trying to get property of non-object
+Error on line 27 of file /home/www/html/loca/smarty/templates_c/24c73c3ab5389ae998a7b3a148aaa1503d76c187.file.login.tpl.php
+
+
